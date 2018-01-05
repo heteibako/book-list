@@ -1,3 +1,3 @@
-#Simple Book adder
+# Simple Book adder
 
-####Created with html, css/bootstrap and javascript.
+#### Created with html, css/bootstrap and javascript.
