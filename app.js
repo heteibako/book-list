@@ -85,7 +85,6 @@ document.getElementById('book-form').addEventListener('submit', function (e) {
     ui.addBookToList(book);
 
   }
- 
   ui.clearFields();
   e.preventDefault();
 });
