@@ -1,0 +1,19 @@
+{
+  "name": "book-adder",
+  "version": "1.0.0",
+  "description": "book adder",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heteibako/book-list.git"
+  },
+  "author": "heteibako",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heteibako/book-list/issues"
+  },
+  "homepage": "https://github.com/heteibako/book-list#readme"
+}
